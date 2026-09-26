@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nasa-ads",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NASA ADS — the Astrophysics Data System, api.adsabs.harvard.edu.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-3406fa25585ce43f1ed352b0ca579116e1427ba5b6dfea970e4575862d0d41b9",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-3b5133c24ecd37943fff048a32481b776f049a1f9a589ff74d64db3f4b17e1c2",
+    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
   }
 }

@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/nasa-ads",
   "title": "Nasa Ads",
   "description": "NASA ADS — the Astrophysics Data System, api.adsabs.harvard.edu.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/nasa-ads",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nasa-ads",
